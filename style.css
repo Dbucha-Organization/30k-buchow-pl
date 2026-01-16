@@ -1463,3 +1463,10 @@ footer svg {
         font-size: 30px;
     }
 }
+
+@media (max-width: 440px) {
+
+    .slider-dots {
+        display: none;
+    }
+}
